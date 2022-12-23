@@ -1,16 +1,1 @@
-<h1>2021/4～2022/2までの制作した作品集です。</h1>  
-<h2>・スキル、使用可能ツール、経験年数</h2>  
-maya（1年）<br>
-SubstancePainter（1年）<br>
-SubstanceDesigner（3か月）<br>
-Photoshop（6か月）<br>
-Unity（1年）<br>
-Blender（3か月）<br>
-Zbrush（3か月）<br>
-AfterEffect（3か月）<br>
-C＃（3か月）<br>
-Python3（5か月）<br>
-GitHub（6か月）<br>
-SourceTree（1年）<br>
-Perl（3か月）<br>
-VBA（6か月）
+<h1>2021/4～2022/12までの制作した作品集です。</h1>  
